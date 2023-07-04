@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ModData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <id>2833991029</id>
+  <mod>Hemp Industry</mod>
+  <title>Hemp Industry</title>
+  <tags>
+    <string>Buildings</string>
+    <string>Items/Weapons</string>
+    <string>Research</string>
+  </tags>
+  <visibility>0</visibility>
+  <lastUpdate>2022-07-15T15:52:01.9666879-04:00</lastUpdate>
+</ModData>
