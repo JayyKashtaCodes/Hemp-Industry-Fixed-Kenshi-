@@ -1,111 +1,103 @@
 ![logo](https://github.com/JayyKashtaCodes/Hemp-Industry-Fixed-Kenshi-/assets/8938590/933b8654-07ad-43d7-b0a4-05efde23a9ed)
 
-HEMP INDUSTRY FIXED
+HEMP INDUSTRY FIXED - 1.0
 
-D - 1.0
+**Hemp Industry is a small mod that adds new items, crafting, and research for the illegal drug trade using hemp.**
 
-Hemp Industry is a small mod that adds new items, crafting, and research for the illegal drug trade using hemp.
+## :: REQUIREMENTS ::
 
-:: REQUIREMENTS ::
+ - Kenshi up to date.
 
-• Kenshi up to date.
+## :: NEW ITEMS ::
 
+ - Hemp Bud
+ - Hemp Joint
+ - Kief
+ - Bonemeal
+ - Enriched Kief
 
+## :: NEW CRAFT WORKSTATIONS ::
 
-:: NEW ITEMS ::
+ - Trimming Table
+ - Grinder
+ - Dough Mixer
 
-• Hemp Bud
-• Hemp Joint
-• Kief
-• Bonemeal
-• Enriched Kief
+## :: New food items ::
 
-
-
-:: NEW CRAFT WORKSTATIONS ::
-
-• Trimming Table
-• Grinder
-• Dough Mixer
-
-
-
-:: New food items ::
-
-• Strawflour Dough
-• Hemp Dough
-• Hemp Bread
-• Hemp Dip
-• Hemp Ration Pack
-• Hempcube
-• Hempwich
-• Hempwrap
-• Hemp Tea
+- Strawflour Dough
+- Hemp Dough
+- Hemp Bread
+- Hemp Dip
+- Hemp Ration Pack
+- Hempcube
+- Hempwich
+- Hempwrap
+- Hemp Tea
 
 
 
-:: NEW MEDICAL ITEMS ::
+## :: NEW MEDICAL ITEMS ::
 
-• Hemp Infused Basic First Aid Kit
-• Hemp Infused Standard First Aid Kit
-• Hemp Infused Advanced First Aid Kit
-• Hemp Salve
-
-
-
-:: NEW RESEARCH ::
-
-• Hemp Industry Basics
-• Hemp Industry Advanced
-• Grinding
-• Hemp Baking
-• Hemp Cooking
-• Hemp Cooking II
-• Hemp Cooking III
-• Hemp Medicine
-• Hemp Medicine II
-• Hemp Medicine III
+- Hemp Infused Basic First Aid Kit
+- Hemp Infused Standard First Aid Kit
+- Hemp Infused Advanced First Aid Kit
+- Hemp Salve
 
 
 
-:: NEW STORAGE CONTAINER ::
+## :: NEW RESEARCH ::
 
-• Hemp Bread Basket
-• Hemp Food Store
-• Hemp Industry Medicrate
-• Storage: Bonemeal
-• Storage: Enriched Kief
-• Storage: Hemp Bud
-• Storage: Hemp Dough
-• Storage: Hemp Joint
-• Storage: Kief
-• Storage: Strawflour Dough
-
-
-
-:: BASE GAME CHANGES ::
-
-• Normal bread requires strawflour dough. This is made in the dough mixer.
-• Trade culture changes for illegal goods.
-• Vendor list changes to provide ingredients.
-• Hemp infused medical kits are listed in the medical workbench.
-• Bread oven is now used as crafting. Bake both bread and hemp bread.
-• Stove has hemp foods listed once researched.
-• **Removed hashish research. This is now unlocked in Hemp Industry Advanced.
-• Hashish now requires kief and fuel instead of hemp and water.
-• Medical research will unlock hemp medical kits.
-• Changed several item/building descriptions.
+- Hemp Industry Basics
+- Hemp Industry Advanced
+- Grinding
+- Hemp Baking
+- Hemp Cooking
+- Hemp Cooking II
+- Hemp Cooking III
+- Hemp Medicine
+- Hemp Medicine II
+- Hemp Medicine III
 
 
 
-:: NOTES ::
+## :: NEW STORAGE CONTAINER ::
 
-•There should be no breaking mod incompatibilities when using Hemp Industry, just make sure place the mod at the bottom of the mod list in the Kenshi launcher.
-•Translations and proper mod compatibility coming soon.
+- Hemp Bread Basket
+- Hemp Food Store
+- Hemp Industry Medicrate
+- Storage: Bonemeal
+- Storage: Enriched Kief
+- Storage: Hemp Bud
+- Storage: Hemp Dough
+- Storage: Hemp Joint
+- Storage: Kief
+- Storage: Strawflour Dough
 
 
 
-RECOMMENDED MODS  ::
+## :: BASE GAME CHANGES ::
+
+- Normal bread requires strawflour dough. This is made in the dough mixer.
+- Trade culture changes for illegal goods.
+- Vendor list changes to provide ingredients.
+- Hemp infused medical kits are listed in the medical workbench.
+- Bread oven is now used as crafting. Bake both bread and hemp bread.
+- Stove has hemp foods listed once researched.
+- **Removed hashish research. This is now unlocked in Hemp Industry Advanced.
+- Hashish now requires kief and fuel instead of hemp and water.
+- Medical research will unlock hemp medical kits.
+- Changed several item/building descriptions.
+
+
+
+## :: NOTES ::
+
+-There should be no breaking mod incompatibilities when using Hemp Industry, just make sure place the mod at the bottom of the mod list in the Kenshi launcher.
+-Translations and proper mod compatibility coming soon.
+
+
+
+## :: RECOMMENDED MODS ::
 
 - None at the moment
 
@@ -113,11 +105,9 @@ RECOMMENDED MODS  ::
 
 ::  KNOWN ISSUES ::
 
-• None at the moment
+ - None at the moment
 
+## :: CREDITS ::
 
-
-::  CREDITS ::
-
-◆ Corey for the original mod.
-◆ JayyTheBae for the fixes.
+ - Corey for the original mod.
+ - JayyKashta for the fixes.
